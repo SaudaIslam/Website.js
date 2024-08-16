@@ -1,5 +1,4 @@
- 
-#Website Structure
+Website Structure
 The website contains:
 
 Home Page
